@@ -1,0 +1,9 @@
+aws_access_key = "ASIAQYY6I572EFL32T7Z"
+
+aws_secret_key = "Z3qkLd4i2pAiXtTvsF2+Wzbsv1a7pBShvOdn3qjZ"
+
+aws_session_token = "IQoJb3JpZ2luX2VjEK7//////////wEaCXVzLWVhc3QtMSJHMEUCIQCQh031kc6sVceFnu4jJb+P8Nz7edjG+r8fca6IZeAdoAIgPYsLJe98icxdfYgyzyK/XoqZzKx1RfAwH7bZJus0JGEq3QIIt///////////ARABGgwwNTMyMTM3MjA1NjQiDELyc9MLJEWj+cmOiiqxAgxf5KLYIEzHLDS6I0LBADzcMYLAznzpMkTiZi0koT/W+0n45cmMEd1KIvNITWNFgd7p1AoQhlofNhIxIGoCIgyZ2fUYa6wW8P2Pye6T5IQbWowcZI+FVmuUuiEalLGvhwIl8rSNJ8FTGpoTGgaoSXU/qYjZmZ7/S7OiYQ20bl7Bz15FKy6u2P33ziNLmseRtS63Klvh5ioGfR57K1Yi3TmYnAOGUPzQHxqMVUZkfrNwxi2y50ZRC0XGp0yi9gnn+bDsudFXiZPp4hXDSYFwz0o3Fc2bh+gdxw+5iK6a1Cd+8qOuWnBac0ghhahhjHx2zhzMJZdVdfGeKvE4B/0ej3wO+WS0cG9H/pcPeNg29IYpR9nx9IZEu8VOOaUGBbtSt+jzht96lFpxCkTFQlsWi2cYMPaC/PoFOqMB0Gt46gHrrJGUMtHf1NTdPrgxQwuy2P0TDnVhV4uWOOU2DqyiwWCSRoJiAEU6VrPYmN4q/NTBnrY0khotEaWIfqLKJEF4hMGyoEXAd+hqVCzpC5SDj6MEF7BmCb9GXMtpqQugacq8a5tcSpgywN7yMzdVFUPbMsBCv1YLcClt74J2rfOzZeOvtSO98S8G2cWUSW7a5PXsnAVAp+XQToKsPLgv1A=="
+
+aws_region = "us-west-2"
+private_key_path = "~/.ssh/id_rsa"
+
